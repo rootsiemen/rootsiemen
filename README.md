@@ -2,6 +2,13 @@
 
 Web developer — **Next.js, React, TypeScript**. I build fast, SEO-friendly websites, ecommerce stores, and web apps.
 
+## 🤝 Connect with me
+
+[![X](https://img.shields.io/badge/X-@irazamirza-000000?style=flat&logo=x&logoColor=white)](https://x.com/irazamirza) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yours%20Raza-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrazahaider1215)
+
+- **X (Twitter):** [@irazamirza](https://x.com/irazamirza)
+- **LinkedIn:** [Yours Raza](https://www.linkedin.com/in/mrazahaider1215)
+
 ## 🏆 Open Source
 
 - **89 merged pull requests** across open-source projects on GitHub.
