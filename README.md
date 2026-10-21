@@ -11,7 +11,7 @@ Web developer — **Next.js, React, TypeScript**. I build fast, SEO-friendly web
 
 ## 🏆 Open Source
 
-- **89 merged pull requests** across open-source projects on GitHub.
+- **91 merged pull requests** across open-source projects on GitHub.
 - My server-side offset pagination PR in [Your-Voldemort/StudentStack](https://github.com/Your-Voldemort/StudentStack) was selected for the **XERJ Corpus Hub** — the open reference index AI coding agents search before writing code. See my [contributor page](https://hub.xerj.org/contributors/rootsiemen).
 
 [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/rootsiemen/badge.svg)](https://hub.xerj.org/contributors/rootsiemen)
