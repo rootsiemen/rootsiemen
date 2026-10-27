@@ -10,7 +10,7 @@ Web developer — **Next.js, React, TypeScript**. I build fast, SEO-friendly web
 
 ## 🏆 Open Source
 
-- **105 merged pull requests** across open-source projects on GitHub.
+- **133 merged pull requests** across open-source projects on GitHub.
 - My server-side offset pagination PR in [Your-Voldemort/StudentStack](https://github.com/Your-Voldemort/StudentStack) was selected for the **XERJ Corpus Hub** — the open reference index AI coding agents search before writing code. See my [contributor page](https://hub.xerj.org/contributors/rootsiemen).
 - **Creator & maintainer of [Loophole](https://github.com/rootsiemen/loophole)** — a zero-dependency static security scanner (35 rules, taint tracking) for JavaScript/TypeScript, Python, Go and PHP, also available as a GitHub Action (`rootsiemen/loophole@v1`) with SARIF upload to code scanning.
 
