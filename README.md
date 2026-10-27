@@ -25,6 +25,15 @@ Web developer — **Next.js, React, TypeScript**. I build fast, SEO-friendly web
 - **[KaamGuide](https://igaf.me)** — Step-by-step guides for government work in Pakistan (CNIC, passport, driving licence & more), in Roman Urdu.
 - **[DAE Past Papers](https://daecitpastpapers.blogspot.com)** — Free PBTE DAE past papers for CIT, Electrical, Mechanical & Civil, by year and subject.
 - **[PlayZone](https://games.tempmaill.tech)** — 12 free playable browser games (2048, Snake, Tetris & more). No download, no signup.
+- **[Hakio Leads](https://hakio.me)** — US business leads platform: a searchable database of local businesses with phone, email & website details.
+- **[VisaKit](https://visa.frinjo.me)** — US visa tools: H-1B salary calculator, visa bulletin tracker & F1 visa guides.
+- **[UKPayCalc](https://uk.frinjo.me)** — UK take-home pay calculator, IR35 checker & tax guides.
+- **[BotView](https://botview-web.vercel.app)** — Free AI-visibility auditor: scores any website for AI search (SEO, AEO & GEO). Also on [frinjo.me/botview](https://frinjo.me/botview).
+- **[Loophole Docs](https://loophole-sf-c596.vercel.app)** — Documentation for Loophole, my open-source security scanner.
+- **[DirectoryKit Demo](https://directorykit-sf-c596.vercel.app)** — Live demo of DirectoryKit, my open-source directory website template.
+- **[Qomash Wears](https://tafb.me)** — Clothing store with catalog, search, accounts, cart & checkout (also at [qomashwears.store](https://qomashwears.store)).
+- **[Babli](https://erzo.me)** — Women's fashion store with a full catalog, blog & AI shopping assistant.
+- **[Portfolio](https://rootsiemen.github.io/Portfolio/)** — My complete portfolio: 18 projects, case studies & contact.
 
 ## 🛠️ Tech I use
 
