@@ -35,6 +35,12 @@ Web developer — **Next.js, React, TypeScript**. I build fast, SEO-friendly web
 - **[Babli](https://erzo.me)** — Women's fashion store with a full catalog, blog & AI shopping assistant.
 - **[Portfolio](https://rootsiemen.github.io/Portfolio/)** — My complete portfolio: 18 projects, case studies & contact.
 
+## 🧰 Free tools I built
+
+- [Frinjo — free online tools](https://frinjo.me/tools) — Free calculators, generators and converters I built and maintain — no signup, no ads-gate.
+- [BotView — AI Visibility Checker](https://frinjo.me/botview) — See your website the way AI sees it: a free AI-visibility audit with a score out of 100.
+- [USA Attorneys — free legal calculators](https://usaattorneys.company/tools) — Free settlement calculators (car accident, personal injury, workers' comp and more) from my US attorney directory.
+
 ## 🛠️ Tech I use
 
 Next.js · React · TypeScript · Tailwind CSS · Turso/SQLite · Vercel · Cloudflare Workers
