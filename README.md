@@ -19,7 +19,7 @@ I'm **Raza** — a **Full Stack Web Developer** working with **Next.js, React an
 
 ## 🌐 My Sites
 
-- **[Frinjo — WebStore Pro](https://frinjo.me)** — My flagship: full stack web development for businesses, plus **120+ free online tools**. Newest tool: the **AdSense Low Value Content Checker** (on the [tools hub](https://frinjo.me/tools)).
+- **[Frinjo — WebStore Pro](https://frinjo.me)** — My flagship: full stack web development for businesses, plus **120+ free online tools**. Newest tool: the **AdSense Low Value Content Checker** (on the [tools hub](https://frinjo.me/adsense-low-value-content-checker)).
 - **[USA Attorneys](https://usaattorneys.company)** — US attorney directory: **833 attorneys** across all 50 states and 16 practice areas, with free settlement calculators, legal guides and FAQs.
 - **[BotView](https://frinjo.me/botview)** — Free AI-visibility auditor: scores any website for AI search (SEO, AEO & GEO). Open source (MIT) on [GitHub](https://github.com/rootsiemen/botview).
 - **[Loophole](https://github.com/rootsiemen/loophole)** — Open-source static security scanner for JS/TS, Python, Go and PHP — docs at [loophole-sf-c596.vercel.app](https://loophole-sf-c596.vercel.app).
@@ -33,7 +33,7 @@ I'm **Raza** — a **Full Stack Web Developer** working with **Next.js, React an
 ## 🧰 Free tools I built
 
 - [Frinjo — free online tools](https://frinjo.me/tools) — 120+ free calculators, generators, checkers and converters I built and maintain — no signup, no ads-gate.
-- [AdSense Low Value Content Checker](https://frinjo.me/tools) — The newest Frinjo tool: paste any article and get a low-value-content risk score with the exact fixes (thin content, weak structure, duplication), plus a guided creator for 1,600+ word articles. Find it on the Frinjo tools hub.
+- [AdSense Low Value Content Checker](https://frinjo.me/adsense-low-value-content-checker) — The newest Frinjo tool: paste any article and get a low-value-content risk score with the exact fixes (thin content, weak structure, duplication), plus a guided creator for 1,600+ word articles. Find it on the Frinjo tools hub.
 - [BotView — AI Visibility Checker](https://frinjo.me/botview) — See your website the way AI sees it: a free AI-visibility audit with a score out of 100.
 - [USA Attorneys — free legal calculators](https://usaattorneys.company/tools) — Free settlement calculators (car accident, personal injury, workers' comp and more) from my US attorney directory.
 
